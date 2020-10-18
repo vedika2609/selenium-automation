@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Web tests for automationpractice.com">
+    <suite-files>
+        <suite-file path="login-suite.xml"/>
+        <suite-file path="signup-suite.xml"/>
+        <suite-file path="checkout-suite.xml"/>
+    </suite-files>
+</suite>

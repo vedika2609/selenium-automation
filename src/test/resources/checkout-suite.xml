@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Web tests for automationpractice.com">
+    <test name="Web tests">
+        <classes>
+            <class name="tests.CheckoutTests"/>
+        </classes>
+    </test>
+</suite>
